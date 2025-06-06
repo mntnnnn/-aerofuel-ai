@@ -1,4 +1,5 @@
-![Screenshot 2025-06-06 211053](https://github.com/user-attachments/assets/d1a41c13-9330-4685-b256-fb02a20140e6)
+![Screenshot 2025-06-06 211053](https://github.com/user-attachments/assets/237d8f97-071b-4a44-bdbc-aa961db2f4dd)
+
 # 🛫 AeroFuel AI – Intelligent Flight Fuel Optimization
 
 AeroFuel AI is a machine learning-powered tool designed to optimize aircraft fuel consumption based on key flight parameters such as distance, altitude, payload, and engine efficiency. It enables smarter fuel management and route replanning—ideal for aviation tech innovators and logistics solutions.
